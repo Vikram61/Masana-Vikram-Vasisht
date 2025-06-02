@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Python, C++**
 
-- 📫 Reach me on [Gmail](vikramvasishtmasna@gmail.com)
+- 📫 Reach me on vikramvasishtmasna@gmail.com
 
 - ✍️ Check out my coding profile on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vikram61/profile)
 

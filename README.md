@@ -55,7 +55,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/masana-vikram-vasisht" target="blank">
+  <a href="https://www.linkedin.com/in/masana-vikram-vasisht-5828a726b/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/vikram61/profile" target="blank">
